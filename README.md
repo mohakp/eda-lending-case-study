@@ -1,5 +1,5 @@
-# Lending Club
-> Outline a brief description of your project.
+# Lending Club Case Study
+> A consumer finance company which carries out various types of lending activities in urban customers. There are various risks associated with lending activities, and in order to secure the company's business as well as to find prospectus customers a quite diligent analysis is to be undergone with the data's available from past loan approvals which may have been defaulted and non-defaulted. A data analysis on what a consumer finance company should look forward in the application of advances to reduce the chances of defaulters.
 
 
 ## Table of Contents
@@ -8,43 +8,30 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- The individuals having employment tenure greater than 10 years have high risk of defaulting
+- It is observed that the customers who have been graded B,C,D are more of a defaulters when compared to other graded people.
+- The individuals who rented or have a mortgage have higher probability of defaulting.
+- The loans with purpose of debt consolidation has a highest risk of default.
+- The loans with short tenures have higher risk of default.
+- Not verified loans are more likely to be charged off.
+- It is observed that for the charged off loan the rate of interest is more on comparison to the fully paid loan. 
+
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
 - pandas
-- numpy
 - matplotlib
 - seaborn
-- warnings
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
 ## Contact
-Created by [@mohakp] - feel free to contact me!
+Created by [Mohak Pingle](https://github.com/mohakp) and [Pooja U](https://github.com/Pooja-Ullattil) 
 
 
 <!-- Optional -->
